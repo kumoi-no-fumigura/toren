@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/toren",
  "yomi": "とうれんほうししゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "登蓮",
+  "desc": "登蓮法師の小さな家集。四季や無常などの題詠を収める。奥書に類本がなく校正できなかったとある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -348,6 +353,6 @@
   "poems": 26,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
